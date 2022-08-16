@@ -1,2 +1,2 @@
-# android-file-sender
+# Android File Sender
 Send files across Android devices
